@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#ea9593</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="action_text_color">#ffffff</color>
+    <color name="text_color">#000000</color>
+    <color name="action_bar_color">#f10909</color>
+    <color name="fort_history_gray">#686868</color>
+
+</resources>
